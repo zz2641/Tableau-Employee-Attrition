@@ -27,4 +27,4 @@ The dashboard consists of three parts: Count Summary; Attrition rate Distributio
  - Though Job involvement and Job satisfaction indicate the low involvement and low satifaction correlate to high attrition rate successfully from the graphs, attrition rate of highly engaged and well-satisfied employees still experience high attrition rate, **which flag potentials other than involvement and satifaction that drive staff away**.
 
 
- - At large, the company has more males than females, not in drastic contrast, and correspondingly has more male employees leaving than female. We don't observe any potential gender discrimation from this perspective. However, when again including age and income, we do observe female leaver of similar age earn fewer than male.
+ - At large, the company has more males than females, not in drastic contrast nontheless, and correspondingly has more male employees leaving than female. We don't observe any potential gender discrimation from this perspective. When again including age and income, we don't observe apparant inequity.
