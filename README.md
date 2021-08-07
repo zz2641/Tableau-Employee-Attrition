@@ -13,4 +13,4 @@ The dashboard consists of three parts: Count Summary; Attrition rate Distributio
  - The top roles that have higher attrition rate than average: **Sales representatives**,**Laboratory Techinician**,**Human Resource**,**Sales Executive**,**Research Scientist**. The sales team is experiencing high attrition rate.
  - Employees with **fewer years of experience** are more likely to leave. After including age and income, we can also see a majority of the churned employees are **young and have relatively lower income**.
  - Distance from home seems to be **not a big issue** with regards to attrition as the rate is pretty constant from short distance to long.
- - At large
+ - At large 
